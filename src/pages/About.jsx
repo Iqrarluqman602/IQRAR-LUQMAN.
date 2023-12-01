@@ -11,14 +11,14 @@ import "react-vertical-timeline-component/style.min.css";
 const About = () => {
   return (
     <section className='max-container'>
-      <h1 className='head-text'>
+      <h2 className='head-text'>
         Hello, I'm{" "}
         <span className='blue-gradient_text font-semibold drop-shadow'>
           {" "}
-          Iqrar luqman
+          IQRAR LUQMAN
         </span>{" "}
         👋
-      </h1>
+      </h2>
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>

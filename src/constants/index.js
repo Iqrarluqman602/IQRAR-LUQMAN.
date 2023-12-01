@@ -157,56 +157,65 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/Iqrarluqman602',
     },
+
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage&_ga=2.192450986.1239671611.1701384670-1169728586.1696181837',
     }
 ];
 
 export const projects = [
     {
         iconUrl: pricewise,
-        theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
-    },
-    {
-        iconUrl: threads,
-        theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
-    },
-    {
-        iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        name: 'japanese food',
+        description: 'japnese food order web page we introduce some of the most popular restaurant types and their typical price ranges (per person):',
+        link: 'https://japanese-food-liard.vercel.app/',
     },
-    {
-        iconUrl: snapgram,
-        theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
-    },
+
     {
         iconUrl: estate,
         theme: 'btn-back-black',
-        name: 'Real-Estate Application',
-        description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://github.com/adrianhajdin/projects_realestate',
+        name: 'MBA BURGERWALA',
+        description: 'The Journey of how an MBA dropout became India ka Chai Wala by forming a company that is a reason behind millions of people to smile every day by its noble deeds,.',
+        link: 'https://mba-indian-chaiwala.vercel.app/',
+    },
+    {
+        iconUrl: snapgram,
+        theme: 'The real Anime magic',
+        name: 'Full Stack Instagram Clone',
+        description: ' This web page Explore The Diverse Realms of Anime Magic',
+        link: 'https://anime-flame-chi.vercel.app/',
     },
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
-        name: 'AI Summarizer Application',
-        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
-    }
+        name: 'Todo app',
+        description: 'its Daily plan, track and finish your to-do task lists whether they be simple grocery shopping lists, daily habits tied to goals,',
+        link: 'https://todo-app-blue-xi.vercel.app',
+    },
+    {
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: 'gastrobar',
+        description: ' its a bar website',
+        link: 'https://gastrobar-c5896.web.app/',
+    },
+   
+    {
+        iconUrl: car,
+        theme: 'btn-back-red',
+        name: 'NIKE SHOES ',
+        description: 'The worlds largest athletic apparel company, Nike is best known for its footwear,',
+        link: 'https://nike-theta-two.vercel.app',
+    },
+   
+    
+    
+  
+  
+   
 ];
