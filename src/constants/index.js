@@ -178,6 +178,13 @@ export const projects = [
     
     
     {
+        iconUrl: snapgram,
+        theme: 'The real Anime magic',
+        name: 'real anime game website',
+        description: ' This web page Explore The Diverse Realms of Anime Magic',
+        link: 'https://anime-flame-chi.vercel.app/',
+    }, 
+    {
         iconUrl: pricewise,
         theme: 'btn-back-blue',
         name: 'japanese food',
@@ -185,14 +192,7 @@ export const projects = [
         link: 'https://japanese-food-liard.vercel.app/',
     },
 
-  
-    {
-        iconUrl: snapgram,
-        theme: 'The real Anime magic',
-        name: 'Full Stack Instagram Clone',
-        description: ' This web page Explore The Diverse Realms of Anime Magic',
-        link: 'https://anime-flame-chi.vercel.app/',
-    },
+ 
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
