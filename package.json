@@ -1,5 +1,5 @@
 {
-  "name": "3d-portfolio",
+  "name": "iqrar-porfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -32,5 +32,9 @@
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.5"
-  }
+  },
+  "description": "IQRAR LUQMAN PORTFOILO WEBSITE",
+  "main": "postcss.config.js",
+  "author": "iqrar luqman",
+  "license": "ISC"
 }
