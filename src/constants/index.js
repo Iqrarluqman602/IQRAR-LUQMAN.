@@ -168,6 +168,15 @@ export const socialLinks = [
 ];
 
 export const projects = [
+      {
+        iconUrl: estate,
+        theme: 'btn-back-black',
+        name: 'MBA BURGERWALA',
+        description: 'The Journey of how an MBA dropout became India ka Chai Wala by forming a company that is a reason behind millions of people to smile every day by its noble deeds,.',
+        link: 'https://mba-indian-chaiwala.vercel.app/',
+    },
+    
+    
     {
         iconUrl: pricewise,
         theme: 'btn-back-blue',
@@ -176,13 +185,7 @@ export const projects = [
         link: 'https://japanese-food-liard.vercel.app/',
     },
 
-    {
-        iconUrl: estate,
-        theme: 'btn-back-black',
-        name: 'MBA BURGERWALA',
-        description: 'The Journey of how an MBA dropout became India ka Chai Wala by forming a company that is a reason behind millions of people to smile every day by its noble deeds,.',
-        link: 'https://mba-indian-chaiwala.vercel.app/',
-    },
+  
     {
         iconUrl: snapgram,
         theme: 'The real Anime magic',
