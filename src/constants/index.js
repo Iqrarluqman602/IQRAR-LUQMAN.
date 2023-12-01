@@ -135,7 +135,7 @@ export const experiences = [
    
     {
         title: "Full stack Developer",
-        company_name: "Broadcast Maeketing House ",
+        company_name: "Broadcast Marketing House ",
         icon: meta,
         iconBg: "#a2d2ff",
         date: "(continue)",
