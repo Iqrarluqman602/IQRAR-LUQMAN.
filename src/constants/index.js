@@ -112,7 +112,7 @@ export const skills = [
 export const experiences = [
     {
         title: "Front-end Developer",
-        company_name: "red-staplar",
+        company_name: "red-staplar web & ghgraphic designing agency",
         icon: starbucks,
         iconBg: "#accbe1",
         date: "july 2023 - September 2023",
@@ -123,7 +123,7 @@ export const experiences = [
     },
     {
         title: "Work as a Freelancer",
-        company_name: "freelancer , People pr Hour",
+        company_name: "freelancer , PeopleprHour",
         icon: tesla,
         iconBg: "#fbc3bc",
         date: "(continue)",
